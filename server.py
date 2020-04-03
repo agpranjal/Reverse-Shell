@@ -17,7 +17,7 @@ while True:
         if data == b"exit":
             print("Connection closed")
             break
-
+        
         output_string = data.decode()
         
         print(output_string, end="")
