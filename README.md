@@ -9,7 +9,7 @@ Also known as shell shoveling, Reverse Shell redirects the output and input of a
 + python3
 + subprocess
 
-### Install subprocess:
+### Install subprocess (on client machine):
 `pip3 install subprocess`
 
 ### Configuration
